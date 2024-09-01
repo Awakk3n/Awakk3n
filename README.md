@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Awakk3n
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning software development, intermediate c++ coder.
-- 💞️ I’m looking to collaborate on c++ projects.
-- 📫 How to reach me? Feel free to mail at abhinav.anurag.cd.met19@itbhu.ac.in (college mail)
+- 👋 Hi, I’m Abhinav, IIT(BHU)' 24
+- 👀 I’m interested in coding, machine and ddeep learning, analysis and gaming
+- 🌱 I’m currently learning deep learning currently.
+- 💞️ I’m looking to collaborate on Python, ML, DL projects, knowledgable in SQL and R
+- 📫 How to reach me? Feel free to mail at info.abhinav.here@gmail.com
 
 <!---
 Awakk3n/Awakk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
