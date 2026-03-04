@@ -1,10 +1,94 @@
-- 👋 Hi, I’m Abhinav, IIT(BHU)' 24
-- 👀 I’m interested in coding, machine and deep learning, analysis and gaming
-- 🌱 I’m currently working on deep learning. Resume [here](https://github.com/Awakk3n/Resume/blob/main/Abhinav_Anurag_Resume.pdf)
-- 💞️ I’m looking to collaborate on Python, ML, DL projects, knowledgable in Python (Numpy, Pandas, SKLearn, PyTorch, PySpark, Matplotlib, Seaborn), SQL, R
-- 📫 How to reach me? Feel free to mail at info.abhinav.here@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi%2C+I'm+Abhinav+👋;I'm+Artist+I+make+Products;Annoying+Devs+Taking+Credit+Repeating!;Yeah+that+sounds+a+lot+like+ME!!;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
-<!---
-Awakk3n/Awakk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## ⚙️ Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![PySpark](https://img.shields.io/badge/PySpark-orange?logo=apache-spark)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
+
+# 👋 Hi, I'm Abhinav
+
+🎓 IIT (BHU) '24  
+💡 Product-minded engineer building with **data, machine learning, and analytics**
+
+I enjoy turning **data into insights and ideas into scalable systems.**
+
+---
+
+## 🚀 About Me
+
+- Senior Analyst in the Product Team at **Oxane**
+- Background in **Machine Learning, Data Science & Analytics**
+- Passionate about **ML systems, experimentation, and product thinking**
+- Always curious. Always learning.
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+Python • SQL • R
+
+### Machine Learning
+Scikit-learn • PyTorch • XGBoost
+
+### Data & Analytics
+Pandas • NumPy • PySpark
+
+### Visualization
+Matplotlib • Seaborn
+
+---
+
+## 📈 Current Focus
+
+- Deep Learning architectures
+- Data workflows & scalable analytics
+- Product thinking with data
+
+---
+
+## 🛠 Areas I Like Working On
+
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Product Development
+- System Optimization
+
+---
+
+## 🎮 Beyond Work
+
+When I'm not building models or analyzing data you'll probably find me:
+
+- Exploring **virtual worlds as a gamer**
+- Learning new technologies
+- Experimenting with ideas and products
+
+---
+
+## 📫 Reach Me
+
+📧 info.abhinav.here@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Awakk3n&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Awakk3n&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Awakk3n/Awakk3n/main/dist/github-contribution-grid-snake.svg)
