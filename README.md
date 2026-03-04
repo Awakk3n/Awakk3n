@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=680&lines=+My+name+is+Abhinav;but...+Annoying+Devs,+Taking+Credit,+Repeating!;That+sounds+a+lot+like+ME!;Well,+I'm+an+Artist+and+I+make+Products.;Always+Learning,+Always+Building,+Always+Shipping!;That's+my+JD;Welcome+to+my+carefree+github+profile!)](https://git.io/typing-svg)
 
-
 ## ⚙️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
