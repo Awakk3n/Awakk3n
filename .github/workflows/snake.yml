@@ -15,9 +15,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Awakk3n
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
-          message: "generate snake"
+          message: "generate contribution snake"
