@@ -78,7 +78,7 @@ When I'm not building models or analyzing data you'll probably find me:
 📧 info.abhinav.here@gmail.com  
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -89,6 +89,12 @@ When I'm not building models or analyzing data you'll probably find me:
 
 ---
 
+## 📅 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Awakk3n&theme=github-dark)
+
+---!-->
+
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Awakk3n/Awakk3n/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Awakk3n/Awakk3n/main/dist/github-contribution-grid-snake-dark.svg)
